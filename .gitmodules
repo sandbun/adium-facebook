@@ -1,4 +1,4 @@
 [submodule "adium"]
 	path = adium
 	url = https://github.com/adium/adium.git
-	branch=adium-1.5.11
+	branch=adium-1.5.11.asher.1011fix
